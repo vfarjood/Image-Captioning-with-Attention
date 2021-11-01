@@ -44,8 +44,8 @@ Architecture: Encoder(CNN-ResNet50), Decoder(LSTM), Attention Network
 	https://drive.google.com/drive/folders/1SALkACRkJanBcWuBf_oJY1t_Ys76xTmX?usp=sharing
 		
 	- It is composed of a folder and a text file:
-		1. Folder contains 8,000 images
-		2. The Text file compose of 40,000 captions in which for each image we have 5 captions.
+		- Folder contains 8,000 images
+		- The Text file compose of 40,000 captions in which for each image we have 5 captions.
 	- Each raw of caption.txt contains two elements, image name and image caption, in which they are separated by ‘,’.
 	- Dataset is not splitted by default so you will need to split it into train_set, validation_set, test_set.
 
