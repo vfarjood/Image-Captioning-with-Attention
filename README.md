@@ -1,19 +1,19 @@
 # Image-Captioning-with-Attention
 
 
-This is a command-line base python project which is written for a specific task called “Image Captioning”.
+This is a command-line based python project which is written for a specific task called “Image Captioning”.
 
 All the material of the project is available on:
 	https://drive.google.com/drive/folders/1ZSwuc_xGe7RvGgG6gysD7G2KFyTjXUlk?usp=sharing
 
 
 ------------------------------------------------------------------------------------------------
--Folder that you downloaded is compose of:
+-Source folder is composed of:
 
 	1. A Python file: 
-		-It is a python file which will allows you to run the program.
+		-A python file which is the source code to run the program.
 	2. A pdf file: 
-		-It is the report of the project and you can find all the necessary detail of the project.
+		-Is the report of the project and you can find all the necessary detail of the project.
 
 ------------------------------------------------------------------------------------------------
 -structure of the code contains:
@@ -59,9 +59,9 @@ All the material of the project is available on:
 	6. For defining any arbitrary arguments, you need to specify it with the name of the argument. ‘—-argument= ‘
 		-example: python image_captioning_with_attention.py train —-batch_size=16
 
-* Note: if you are running the program on ‘Google Colab’ then you need to pass your arguments on this way:
+* Note: if you are running the program on ‘Google Colab’ then you need to pass your arguments like this way:
 	
-	change line-883 to: 	parsed_arguments = parser.parse_args(['train', '/content/flickr8k'])
+	Change line-883 to: 	parsed_arguments = parser.parse_args(['train', '/content/flickr8k'])
 
 ------------------------------------------------------------------------------------------------
 -Instruction for eval and test:
