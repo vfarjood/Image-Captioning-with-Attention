@@ -1,6 +1,7 @@
 # Image-Captioning-with-Attention
 
 This is a python based command-line program using PyTorch library to annotate pictures. 
+
 All the material will be available here:
 https://drive.google.com/drive/folders/1ZSwuc_xGe7RvGgG6gysD7G2KFyTjXUlk?usp=sharing
 
@@ -39,7 +40,7 @@ https://drive.google.com/drive/folders/1ZSwuc_xGe7RvGgG6gysD7G2KFyTjXUlk?usp=sha
 
 	- Dataset will be available on the link below: 
 		https://drive.google.com/drive/folders/1ZSwuc_xGe7RvGgG6gysD7G2KFyTjXUlk?usp=sharing
-	- It is compose of a folder and a text file:
+	- It is composed of a folder and a text file:
 		1. Folder contains 8,000 images
 		2. The Text file compose of 40,000 captions in which for each image we have 5 captions.
 	- Each raw of caption.txt contains two elements, image name and image caption, in which they are separated by ‘,’.
