@@ -3,8 +3,7 @@
 
 This is a command-line based python project which is written for a specific task called “Image Captioning”.
 
-All the material of the project is available on:
-	https://drive.google.com/drive/folders/1ZSwuc_xGe7RvGgG6gysD7G2KFyTjXUlk?usp=sharing
+
 
 
 ------------------------------------------------------------------------------------------------
