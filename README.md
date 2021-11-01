@@ -1,11 +1,12 @@
 # Image-Captioning-with-Attention
 
-This is a python based command-line program using PyTorch library.
+This is a python based command-line program using PyTorch library to annotate pictures. 
 
 
 * Key Architectures:  Encoder(ResNet50), Decoder(LSTM), Attention Network
 
 ![image](https://user-images.githubusercontent.com/93528581/139686890-f70d77aa-485d-4abb-8501-1de69a8c73f7.png)
+
 
 
 ------------------------------------------------------------------------------------------------
@@ -14,7 +15,7 @@ This is a python based command-line program using PyTorch library.
 	1. A Python file: 
 		-A python file which is the source code to run the program.
 	2. A pdf file: 
-		-Is the report of the project and you can find all the necessary detail of the project.
+		-Is the report of the project and you can find all the necessary details of the project.
 
 ------------------------------------------------------------------------------------------------
 -structure of the code contains:
