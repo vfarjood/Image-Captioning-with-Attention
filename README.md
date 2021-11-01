@@ -13,9 +13,9 @@ Architecture: Encoder(CNN-ResNet50), Decoder(LSTM), Attention Network
 - Source folder is composed of:
 
 	1. A Python file:\
-			-A python file which is the source code to run the program.
+			- The source code to run the program.
 	2. A pdf file:\
-			-Is the report of the project and you can find all the necessary details of the project.
+			- The report of the project and you can find all the necessary details of the project.
 
 ------------------------------------------------------------------------------------------------
 - Structure of the code contains:
