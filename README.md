@@ -1,11 +1,8 @@
 # Image-Captioning-with-Attention
 
 This is a python based command-line program using PyTorch library to annotate pictures. 
-
-
-* Key Architectures:  Encoder(ResNet50), Decoder(LSTM), Attention Network
-
-![image](https://user-images.githubusercontent.com/93528581/139686890-f70d77aa-485d-4abb-8501-1de69a8c73f7.png)
+All the material will be available here:
+https://drive.google.com/drive/folders/1ZSwuc_xGe7RvGgG6gysD7G2KFyTjXUlk?usp=sharing
 
 
 
@@ -41,7 +38,7 @@ This is a python based command-line program using PyTorch library to annotate pi
 -Dataset:	
 
 	- Dataset will be available on the link below: 
-		https://www.kaggle.com/adityajn105/flickr8k
+		https://drive.google.com/drive/folders/1ZSwuc_xGe7RvGgG6gysD7G2KFyTjXUlk?usp=sharing
 	- It is compose of a folder and a text file:
 		1. Folder contains 8,000 images
 		2. The Text file compose of 40,000 captions in which for each image we have 5 captions.
