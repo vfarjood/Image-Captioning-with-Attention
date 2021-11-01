@@ -18,16 +18,16 @@ Architecture: Encoder(CNN-ResNet50), Decoder(LSTM), Attention Network
 		-Is the report of the project and you can find all the necessary details of the project.
 
 ------------------------------------------------------------------------------------------------
--structure of the code contains:
+-Structure of the code contains:
 
-	- classes:
+	- Classes:
 		1- TextManager,
 		2- CapDataset,
 		3- Encoder_CNN,
 		4- Attention,
 		5- Decoder_LSTM,
 		6- Encoder_Decoder,
-	- functions:
+	- Functions:
 		- plot_attention,
 		- show_image,
 		- save_acc_graph,
