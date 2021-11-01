@@ -1,9 +1,11 @@
 # Image-Captioning-with-Attention
 
+This is a python based command-line program using PyTorch library.
 
-This is a command-line based python project which is written for a specific task called “Image Captioning”.
 
+* Key Architectures:  Encoder(ResNet50), Decoder(LSTM), Attention Network
 
+![image](https://user-images.githubusercontent.com/93528581/139686890-f70d77aa-485d-4abb-8501-1de69a8c73f7.png)
 
 
 ------------------------------------------------------------------------------------------------
