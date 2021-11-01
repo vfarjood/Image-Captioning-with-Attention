@@ -56,19 +56,17 @@ Architecture: Encoder(CNN-ResNet50), Decoder(LSTM), Attention Network
 	2. Make sure you already downloaded the dataset.
 	3. It is a command-line base program so you need to open a terminal.
 	4. Run the python file with one of the mandatory arguments [’train’,’eval’,’ test’] and the address of dataset folder(This is the minimum requirement).
-		-example: 
-			python image_captioning_with_attention.py train flickr8k/
+		- example:	python image_captioning_with_attention.py train flickr8k/
 		
 	5. If you need help for defining arguments then you can try with ‘-h’ argument at the end of the command.
-		-example:
-			python image_captioning_with_attention.py -h
+		- example:	python image_captioning_with_attention.py -h
 		
 	6. For defining any arbitrary arguments, you need to specify it with the name of the argument. ‘—-argument= ‘
-		-example:
-			python image_captioning_with_attention.py train —-batch_size=16
+		- example:	python image_captioning_with_attention.py train —-batch_size=16
 
-*Note: if you are running the program on ‘Google Colab’ then you need to pass your arguments like this way:\
-	Change line-883 to:	parsed_arguments = parser.parse_args(['train', '/content/flickr8k'])
+	*Note: if you are running the program on ‘Google Colab’ then you need to pass your arguments like this way:
+	
+	- Change line-883 to:	parsed_arguments = parser.parse_args(['train', '/content/flickr8k'])
 
 ------------------------------------------------------------------------------------------------
 - Instruction for eval and test:
