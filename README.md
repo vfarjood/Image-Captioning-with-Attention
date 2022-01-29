@@ -2,9 +2,6 @@
 
 This is a command-line program based on python using PyTorch library to annotate pictures. 
 
-All the material will be available here:
-https://drive.google.com/drive/folders/1ZSwuc_xGe7RvGgG6gysD7G2KFyTjXUlk?usp=sharing
-
 Architecture: Encoder(CNN-ResNet50), Decoder(LSTM), Attention Network
 ![image](https://user-images.githubusercontent.com/93528581/139692190-0524c4ee-971f-4299-a01c-2e6f0ed38f9a.png)
 
